@@ -8,6 +8,8 @@ Python并行化处理数据
 * multiprocessing.dummy
 * map()
 * reduce()
+
+<br>
 [并行处理类](https://github.com/naughtybabyfirst/Parallel/blob/main/Python%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%B9%B6%E8%A1%8C%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE.py)
 
 完成并行处理数据类
